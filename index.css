@@ -46,6 +46,7 @@ background-color: wheat;
 border: 2px solid ;
 border-radius: 30px;
 text-align: center;
+    margin:20px;
 }
 button{
     color: darkgoldenrod;
