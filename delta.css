@@ -1,0 +1,63 @@
+html{
+    font-size: 16px;
+    
+}
+.solution{
+    color: yellow;
+    background-color: blue;
+    text-align: center;
+}
+body{
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cache .par li{
+    color:gold;
+    background-color: cadetblue;
+    display: inline-block;
+    padding: 10px;
+    font-size: 1rem;
+
+}
+.cache .par li a{
+    text-decoration: none;
+}
+.cache .par li:hover{
+    color:gold;
+    background-color: deepskyblue;
+    display: inline-block;
+    padding: 10px;
+    font-size: 1rem;
+    transition: 1.2s;
+}
+header{
+    color: maroon;
+    background-color: green;
+    border: 2px solid maroon;
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+.image{
+font-size: 1.1rem;
+color: olive;
+background-color: wheat;
+border: 2px solid ;
+border-radius: 30px;
+text-align: center;
+}
+button{
+    color: darkgoldenrod;
+    background-color: green;
+    font-size: 1.5rem ;
+}
+img{
+    border-radius: 150px;
+    text-align: center;
+    display: inline;
+}
+.contact{
+    color: yellow;
+    background-color: blue;
+}
